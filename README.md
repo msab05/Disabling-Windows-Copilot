@@ -4,8 +4,10 @@
 Copilot in Windows is an AI-powered assistant that provides centralized help with tasks, creativity, and collaboration. 
 A cybersecurity team might want to disable Copilot in certain situations due to potential security risks. 
 
-## How to disable Windows Copilot using Group Policy for Windows 10/11 (Taskbar and Windows Search):
+
+## Disabling Windows Copilot using Group Policy for Windows 10/11 (Taskbar and Windows Search):
 References: https://learn.microsoft.com/en-us/windows/client-management/manage-windows-copilot
+
 
 1. To disable Windows Copilot using Group Policy for both Windows 10 and 11: Create a new or modify an existing user based GPO that applies to all of your users in your domain.  
   User Configuration > Administrative Templates > Windows Components > Windows Copilot > Turn off Windows Copilot : Set this to Enabled
@@ -17,8 +19,8 @@ References: https://learn.microsoft.com/en-us/windows/client-management/manage-w
 
 
 
-## How to disable Windows Copilot in MS Edge using Group Policy:
-Currently, the only way to disable some of Copilot from MS Edge is to remove the Hubs Sidebar. To do this:
+## Disabling Windows Copilot in MS Edge using Group Policy:
+Currently, the only way to disable most of Copilot from MS Edge is to remove the Hubs Sidebar. To do this:
 
 1. Create a new or modify an existing computer based GPO that applies to all of your devices in your domain.
 Computer Configuration > Administrative Templates > Microsoft Edge > Show Hubs Sidebar : Set this to Disabled
