@@ -1,4 +1,4 @@
-> How to disable Windows Copilot using Group Policy for both Windows 10 and 11 (Taskbar and Windows Search):
+<b>How to disable Windows Copilot using Group Policy for both Windows 10 and 11 (Taskbar and Windows Search):<\b>
 References: https://learn.microsoft.com/en-us/windows/client-management/manage-windows-copilot
 
 1. To disable Windows Copilot using Group Policy for both Windows 10 and 11: Create a new or modify an existing user based GPO that applies to all of your users in your domain.  
