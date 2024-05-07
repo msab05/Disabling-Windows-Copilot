@@ -12,7 +12,7 @@ References: https://learn.microsoft.com/en-us/windows/client-management/manage-w
   ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/53be7b05-af24-4fbc-8393-776732e29406)
 
 > [!TIP]
-> If you don't see this GPO, import the latest ADMX files. The process for importing Windows 10/11 ADMX files outlined here: https://www.prajwaldesai.com/download-windows-11-administrative-templates/
+> If you don't see this GPO, import the latest ADMX files. The process for importing Windows 10/11 ADMX files outlined [here.](https://www.prajwaldesai.com/download-windows-11-administrative-templates/)
 
 
 
@@ -25,7 +25,7 @@ Computer Configuration > Administrative Templates > Microsoft Edge > Show Hubs S
 ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/54682aba-66da-4755-9323-70db440b91b2)
 
 > [!TIP]
-> If you don't see this GPO, import the latest ADMX files. The process for importing MS Edge ADMX files outlined here: https://www.prajwaldesai.com/admx-templates-for-microsoft-edge/
+> If you don't see this GPO, import the latest ADMX files. The process for importing MS Edge ADMX files outlined [here.](https://www.prajwaldesai.com/admx-templates-for-microsoft-edge/)
 
 > [!NOTE]
 > Make sure you have safe search enabled to disable these buttons when searching:
