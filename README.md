@@ -4,7 +4,7 @@
 Copilot in Windows is an AI-powered assistant that provides centralized help with tasks, creativity, and collaboration. 
 A cybersecurity team might want to disable Copilot in certain situations due to potential security risks. 
 
-## How to disable Windows Copilot using Group Policy for both Windows 10 and 11 (Taskbar and Windows Search):
+## How to disable Windows Copilot using Group Policy for Windows 10/11 (Taskbar and Windows Search):
 References: https://learn.microsoft.com/en-us/windows/client-management/manage-windows-copilot
 
 1. To disable Windows Copilot using Group Policy for both Windows 10 and 11: Create a new or modify an existing user based GPO that applies to all of your users in your domain.  
