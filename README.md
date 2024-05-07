@@ -10,7 +10,9 @@ References: https://learn.microsoft.com/en-us/windows/client-management/manage-w
 
 
 1. To disable Windows Copilot using Group Policy for both Windows 10 and 11: Create a new or modify an existing user based GPO that applies to all of your users in your domain.  
-  User Configuration > Administrative Templates > Windows Components > Windows Copilot > Turn off Windows Copilot : Set this to Enabled
+  User Configuration > Administrative Templates > Windows Components > Windows Copilot >
+
+Turn off Windows Copilot : Set this to Enabled
   ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/53be7b05-af24-4fbc-8393-776732e29406)
 
 > [!TIP]
@@ -23,7 +25,8 @@ References: https://learn.microsoft.com/en-us/windows/client-management/manage-w
 Currently, the only way to disable most of Copilot from MS Edge is to remove the Hubs Sidebar. To do this:
 
 1. Create a new or modify an existing computer based GPO that applies to all of your devices in your domain.
-Computer Configuration > Administrative Templates > Microsoft Edge > Show Hubs Sidebar : Set this to Disabled
+Computer Configuration > Administrative Templates > Microsoft Edge > 
+Hubs Sidebar : Set this to Disabled
 ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/54682aba-66da-4755-9323-70db440b91b2)
 
 > [!TIP]
