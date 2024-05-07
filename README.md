@@ -28,12 +28,12 @@ Computer Configuration > Administrative Templates > Microsoft Edge > Show Hubs S
 
 > [!TIP]
 > If you don't see this GPO, import the latest ADMX files. The process for importing MS Edge ADMX files outlined [here.](https://www.prajwaldesai.com/admx-templates-for-microsoft-edge/)
-
+>
 > [!NOTE]
 > Make sure you have safe search enabled to disable these buttons when searching:
 >  ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/b723a405-14de-4ac6-bfd4-cc0ba19a2630)
-
-> After clicking those, you should get a prompt like this:
+>
+> You should get this message when you click one of those icons:
 > 
 > ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/8fd5e18b-7af8-4d87-bf1e-6bbe8a254242)
 
