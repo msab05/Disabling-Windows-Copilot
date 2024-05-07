@@ -32,7 +32,8 @@ Computer Configuration > Administrative Templates > Microsoft Edge > Show Hubs S
 > [!NOTE]
 > Make sure you have safe search enabled to disable these buttons when searching:
 >  ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/b723a405-14de-4ac6-bfd4-cc0ba19a2630)
- 
-  After clicking those, you should get a prompt like this:
-  ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/8fd5e18b-7af8-4d87-bf1e-6bbe8a254242)
+
+> After clicking those, you should get a prompt like this:
+> 
+> ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/8fd5e18b-7af8-4d87-bf1e-6bbe8a254242)
 
