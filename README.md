@@ -1,4 +1,4 @@
-# Disabling Windows Copilot - Windows 10/11 and MS Edge
+# Disabling Windows Copilot - MS Windows 10/11 and MS Edge
 
 ### Introduction
 Copilot in Windows is an AI-powered assistant that provides centralized help with tasks, creativity, and collaboration. 
