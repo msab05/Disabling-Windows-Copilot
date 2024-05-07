@@ -31,7 +31,7 @@ Hubs Sidebar : Set this to Disabled
 
 > [!TIP]
 > If you don't see this GPO, import the latest ADMX files. The process for importing MS Edge ADMX files outlined [here.](https://www.prajwaldesai.com/admx-templates-for-microsoft-edge/)
->
+
 > [!NOTE]
 > Make sure you have safe search enabled to disable these buttons when searching:
 >  ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/b723a405-14de-4ac6-bfd4-cc0ba19a2630)
