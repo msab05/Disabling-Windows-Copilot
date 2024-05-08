@@ -43,5 +43,6 @@ Hubs Sidebar : Set this to Disabled
 
 ## Disabling Microsoft Copilot for Sales:
 In the [MS admin center](https://admin.microsoft.com/#/homepage/:/Settings/L1/VivaSales) disable both check boxes
+
 ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/2c53fceb-b0f7-4c54-8461-afe54487f83f)
 
