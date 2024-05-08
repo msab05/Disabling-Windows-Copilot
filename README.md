@@ -1,8 +1,8 @@
-# Disabling Windows Copilot - MS Windows 10/11 and MS Edge
+# Disabling Windows Copilot 
 
 ### Introduction
 Copilot in Windows is an AI-powered assistant that provides centralized help with tasks, creativity, and collaboration. 
-A cybersecurity team might want to disable Copilot in certain situations due to potential security risks. 
+A cybersecurity team might want to disable Copilot in certain situations due to potential security risks or not ready to support it. 
 
 
 ## Disabling Windows Copilot using Group Policy for Windows 10/11 (Taskbar and Windows Search):
@@ -39,4 +39,9 @@ Hubs Sidebar : Set this to Disabled
 > You should get this message when you click one of those icons:
 > 
 > ![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/8fd5e18b-7af8-4d87-bf1e-6bbe8a254242)
+
+
+## Disabling Microsoft Copilot for Sales:
+In the [MS admin center](https://admin.microsoft.com/#/homepage/:/Settings/L1/VivaSales) disable both check boxes
+![image](https://github.com/msab05/Disabling-Windows-Copilot/assets/61631832/2c53fceb-b0f7-4c54-8461-afe54487f83f)
 
